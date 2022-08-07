@@ -19,13 +19,20 @@ it has a few rooms and the ability for a player to walk between these rooms.
     
 ## Technologies
 ### Languages
->This application was made using Java for a University Project
+>This application was made using Java with the JPanel library for a University Project
 ### Hosting
->This can be run on any machine which is capable of running Java applications using the JVM and dependencies for the JPanel library
+>This can be run on any machine which is capable of running Java applications using the JVM.
 
 ## Usage
 ### Commands
->+ reset() - Restart the simulation from the beginning
->+ runLongSimulation() - Run the simulation for 4000 steps
->+ simulate(int steps) - Run the simulation for the imputted amount of steps
->+ simulateOneStep() - Run the simulaton for one step
+>+ go (direction) - Enter the next room that is located in that direction
+>+ quit - Exit the game
+>+ help - Display some useful information
+>+ back - Go to the last room that you were in
+>+ pickup (item) - Pickup an item that is present in that room
+>+ drop (item) - Drop an item that is in your inventory in the current room that you are in
+>+ info - Get some information including what items you are carrying and the total weight that you are carrying
+>+ view (character) - View information about a character, including their items and the weight of those items altogether
+>+ take (item) (character) - Take an item from a character
+>+ give (item) (character) - Give an item to a character
+>+ objective - Display the current objective
