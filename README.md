@@ -11,7 +11,6 @@ This project is part of the material for chapter 8 of the book
    >
 >This project is a simple framework for an adventure game. In this version,
 it has a few rooms and the ability for a player to walk between these rooms.
-That's all.
 
 ### Changes / Additions
 >Author: **Matthew Palmer**
