@@ -14,9 +14,9 @@ it has a few rooms and the ability for a player to walk between these rooms.
 That's all.
 
 ### Changes / Additions
->Author: Matthew Palmer
+>Author: **Matthew Palmer**
 
->The user is an inmate in a prison, the aim of the game is to escape. There are various different rooms within this prison, each possibly containing items and/or characters. Characters are NPC's that the user can interactive with, the character might be holding an item that the user needs, which the user will need to trade another item for. Items are found on the ground in a room, the user can only carry a certain weight, meaning that they can only carry a certain amount of items. The user is able to drop items in rooms. The game consists of objectives, once all of the objectives are complete, the user is able to escape the prison. Each objective has a description and an item that is required to complete the objective, once that item is placed into the user's backpack, the objective is completed.
+The user is an inmate in a prison, the aim of the game is to escape. There are various different rooms within this prison, each possibly containing items and/or characters. Characters are NPC's that the user can interactive with, the character might be holding an item that the user needs, which the user will need to trade another item for. Items are found on the ground in a room, the user can only carry a certain weight, meaning that they can only carry a certain amount of items. The user is able to drop items in rooms. The game consists of objectives, once all of the objectives are complete, the user is able to escape the prison. Each objective has a description and an item that is required to complete the objective, once that item is placed into the user's backpack, the objective is completed.
     
 ## Technologies
 ### Languages
