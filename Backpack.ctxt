@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Backpack
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Backpack\ here.\r\n\r\n\ @author\ Matthew\ Palmer\ K21005255\r\n\ @version\ 1.0\r\n
+comment1.params=maxWeight
+comment1.target=Backpack(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Backpack\r\n
+comment2.params=item
+comment2.target=void\ placeItem(Item)
+comment2.text=\r\n\ Adds\ an\ Item\ object\ to\ the\ storedItems\ ArrayList\r\n\ @param\ An\ Item\ object\r\n
+comment3.params=item
+comment3.target=void\ takeItem(Item)
+comment3.text=\r\n\ Removes\ an\ Item\ object\ from\ the\ storedItems\ ArrayList\r\n\ @param\ An\ Item\ object\r\n
+comment4.params=name
+comment4.target=Item\ getItemObjectBackpack(java.lang.String)
+comment4.text=\r\n\ Get\ a\ String\ of\ the\ Item\ objects'\ names\ stored\ in\ the\ storedItems\ ArrayList\r\n\ @param\ String\ name\r\n\ @return\ A\ String\ stating\ the\ Item\ objects\ stored\ in\ the\ ArrayList\r\n
+comment5.params=
+comment5.target=int\ getMaxWeight()
+comment5.text=\r\n\ Get\ the\ value\ stored\ in\ the\ maximumWeight\ variable\r\n\ @return\ maxWeight\ variable\r\n
+comment6.params=
+comment6.target=java.lang.String\ getStoredItems()
+comment6.text=\r\n\ Gets\ a\ String\ containing\ the\ items\ stored\ in\ the\ storedItems\ ArrayList\r\n\ @return\ String\ containing\ Item\ objects\ stored\ in\ storedItems\ ArrayList\r\n
+numComments=7

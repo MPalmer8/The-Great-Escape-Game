@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Item\ here.\r\n\r\n\ @author\ Matthew\ Palmer\ K21005255\r\n\ @version\ 1.0\r\n
+comment1.params=itemName\ weight\ pickup
+comment1.target=Item(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Used\ to\ get\ the\ name\ of\ the\ item\ object\r\n\ @return\ String\ name\ of\ the\ item\r\n
+comment3.params=
+comment3.target=int\ getWeight()
+comment3.text=\r\n\ Used\ to\ get\ the\ weight\ of\ the\ item\ objectd\r\n\ @return\ int\ weight\r\n
+comment4.params=
+comment4.target=boolean\ getPickup()
+comment4.text=\r\n\ Used\ to\ check\ if\ the\ item\ can\ be\ picked\ up\ or\ not\r\n\ @return\ boolean\ variable\ if\ the\ item\ can\ be\ picked\ up\ or\ not\r\n
+comment5.params=value
+comment5.target=void\ setPickup(boolean)
+comment5.text=\r\n\ Set\ if\ the\ item\ can\ be\ picked\ up\ or\ not.\r\n\ @params\ A\ boolean\ value\ to\ set\ the\ pickup\ variable\ to\r\n
+numComments=6

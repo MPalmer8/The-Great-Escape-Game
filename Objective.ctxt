@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Objective
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ objective\ here.\r\n\r\n\ @author\ Matthew\ Palmer\ K21005255\r\n\ @version\ 1.0\r\n
+comment1.params=description\ item
+comment1.target=Objective(java.lang.String,\ Item)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ objective\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDesc()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ @return\ the\ description\ of\ the\ objective\r\n
+comment3.params=
+comment3.target=Item\ getNeededItem()
+comment3.text=\r\n\ Get\ the\ needed\ item\ to\ complete\ the\ objective\r\n\ @return\ An\ item\ object\ of\ the\ objective\ instance\r\n
+comment4.params=
+comment4.target=void\ setTrue()
+comment4.text=\r\n\ Set\ the\ value\ variable\ to\ true\r\n
+comment5.params=
+comment5.target=boolean\ getValue()
+comment5.text=\r\n\ Get\ the\ value\ variable\r\n\ @return\ value\ variable\r\n
+comment6.params=item
+comment6.target=java.lang.String\ getItemName(Item)
+comment6.text=\r\n\ Used\ to\ get\ an\ item's\ name\ field\r\n\ @param\ An\ item\ object\r\n\ @return\ The\ name\ of\ that\ item\r\n
+numComments=7
